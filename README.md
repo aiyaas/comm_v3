@@ -2,7 +2,7 @@
 
 Project `Web` chat with `AI` model for Chinese language version `zh-CN` after its old version using English `en-US`.
 Visit the deployed website here 
-```https://aiyaas.github.io/comm_v3/#```
+<pre>https://aiyaas.github.io/comm_v3/#</pre>
 
 # What we update 
 - We changed and added Chinese language
