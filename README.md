@@ -1,2 +1,3 @@
 # comm_v3
-Website chat with technology (AI) for Chinese version.
+
+Project `Web` chat with `AI` model for Chinese language version `zh-CN` after its old version using English `en-US`.
