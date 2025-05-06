@@ -47,7 +47,7 @@ async function __ExectMainFeature__(select, _m) {
         }
         break;
         case "Gemini_1": {
-            const results = await (await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyDFoccaoS5gZPAC3TGMg5J9l9i2vtbHZ3k`, {
+            const results = await (await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBLw8lXE4SytPcTvFn7zvUDr1ywmHXFSv0`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
